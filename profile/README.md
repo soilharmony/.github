@@ -15,6 +15,10 @@ These functions will allow converting data obtained using national methods for s
 
 The <https://github.com/soilharmony> organisation provides a workspace for collaboration on GitHub repositories that will be developed during the project.
 
+🙋‍♀️ How to become a member?
+
+First, you need to have an account on GitHub. See the official [GitHub documentation](https://docs.github.com/en/account-and-profile/how-tos/account-management/creating-an-account-on-github) how to create an account. Next, contact the SoilHarmony WP5 lead to make you a member of the SoilHarmony GitHub organisation. Consult the [SoilHarmony sharepoint](https://erdyn.sharepoint.com/sites/GAPSOILHARMONY/) for the contact details.
+ 
 <!--
 
 **Here are some ideas to get you started:**
